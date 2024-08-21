@@ -11,7 +11,7 @@ public class P19 {
 		int n = 123456789;
 		int sum = 0;
 		
-		while(n != 0) {
+/*		while(n != 0) {
 			int digit = n%10;
 			
 			int count = 1;
@@ -28,6 +28,16 @@ public class P19 {
 			
 			n = n/10;
 		}
+*/		
+
+		while(n != 0) {
+			int digit = n%10;
+			if(digit==2 || digit==3 || digit==5 || digit==7) {
+				sum = sum + digit;
+			}
+			n = n/10;
+		}
+		
 		System.out.println(sum);
 	}
 }
