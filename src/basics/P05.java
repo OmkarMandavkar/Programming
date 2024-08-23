@@ -1,7 +1,7 @@
 //WAP TO PRINT THE SUM OF NUMBER IN RANGE 1-5
 package basics;
 
-public class P5 {
+public class P05 {
 
 	public static void main(String[] args) {
 
