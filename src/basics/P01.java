@@ -1,7 +1,7 @@
 //WAP TO PRINT ALL THE NUMBERS FROM 1 TO 5
 package basics;
 
-public class P1 {
+public class P01 {
 
 	public static void main(String[] args) {
 
