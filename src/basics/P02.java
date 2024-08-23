@@ -1,7 +1,7 @@
 //WAP TO DISPLAY EVEN NUMBERS FROM 1 TO 10
 package basics;
 
-public class P2 {
+public class P02 {
 	public static void main(String[] args) {
 		
 		System.out.print("Even numbers are: ");
