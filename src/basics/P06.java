@@ -1,7 +1,7 @@
 //WAP TO PRINT PRODUCT OF ALL ODD NUMBER IN RANGE 1-10
 package basics;
 
-public class P6 {
+public class P06 {
 	public static void main(String[] args) {
 		
 		int product = 1;
