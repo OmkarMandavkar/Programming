@@ -1,7 +1,7 @@
 //WAP TO PRINT IF THE NUMBER IS A PRIME NUMBER OR NOT
 package basics;
 
-public class P8 {
+public class P08 {
 
 	public static void main(String[] args) {
 		int n=5;
