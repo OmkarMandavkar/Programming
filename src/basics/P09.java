@@ -11,7 +11,7 @@ package basics;
 
 import java.util.Scanner;
 
-public class P9 {
+public class P09 {
 
 	public static void main(String[] args) {
 
