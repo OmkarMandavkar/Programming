@@ -1,4 +1,4 @@
-//WAP TO PRINT THE LARGEST 
+//WAP TO PRINT THE LARGEST DIGIT OF A NUMBER 
 package basics;
 
 public class P18 {
