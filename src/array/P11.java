@@ -1,5 +1,5 @@
 /*
- Array Operations: Total number of decrement operation performed
+ Array Operations: Total number of decrement operations performed
  You are given an array A of size N and an integer K.
  You have to make all the elements of the array divisible by K.
  You can decrease any element of the array by 1 in one operation.
@@ -7,7 +7,7 @@
  Find the total number of decrement operations required to make all the elements of the array divisible by K.
  
  Input: 5 6 -> denotes N & K
- 		5 9 12 16 25 -> denotes N elements
+ 	5 9 12 16 25 -> denotes N elements
  	
  Output: 13
  
