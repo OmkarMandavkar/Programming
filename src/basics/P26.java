@@ -1,4 +1,5 @@
 //WAP TO CHECK WHETHER A NUMBER IS ARMSTRONG NUMBER OR NOT
+//Numbers equal to the sum of their digits raised to the power of the number of digits
 
 package basics;
 
